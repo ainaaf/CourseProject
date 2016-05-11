@@ -29,7 +29,6 @@ create a tidy data set that it will save as "TidyData.txt"
 * **CodeBook.txt:** contains information about the variables contained in 
 "TidyData.txt"
 * **TidyData.txt:** the data frame created by "run_analysis.R"
-* **TidyVariables.txt** the name of each variable contained in "TidyData.txt" 
 
 
 ## How to run the script
